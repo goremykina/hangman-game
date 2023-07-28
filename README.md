@@ -1,2 +1,2 @@
 # hangman-game
-Demo https://goremykina.github.io/hangman-game/
+<link href='https://goremykina.github.io/hangman-game/'>Demo<link/>
